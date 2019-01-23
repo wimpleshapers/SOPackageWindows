@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<package >
+  <metadata>
+    <id>Some.Project</id>
+    <version>1.0</version>
+    <description>Some Project</description>
+    <authors>Some Authors</authors>
+  </metadata>
+</package>
